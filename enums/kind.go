@@ -67,6 +67,7 @@ const (
 	KindAZStorageAccountRoleAssignment    Kind = "AZStorageAccountRoleAssignment"
 	KindAZStorageContainer                Kind = "AZStorageContainer"
 	KindAZAutomationAccount               Kind = "AZAutomationAccount"
+	KindAZNetworkSecurityGroup            Kind = "AZNetworkSecurityGroup"
 	KindAZAutomationAccountRoleAssignment Kind = "AZAutomationAccountRoleAssignment"
 	KindAZLogicApp                        Kind = "AZLogicApp"
 	KindAZLogicAppRoleAssignment          Kind = "AZLogicAppRoleAssignment"
