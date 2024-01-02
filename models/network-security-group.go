@@ -17,7 +17,7 @@
 
 package models
 
-import "github.com/mstair/azurehound/v2/models/azure"
+import "github.com/bloodhoundad/azurehound/v2/models/azure"
 
 type NetworkSecurityGroup struct {
 	azure.NetworkSecurityGroup
